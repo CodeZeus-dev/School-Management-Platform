@@ -5,4 +5,6 @@
 - NestJS
 - Typescript
 - MongoDB
-- GraphQL
+- GraphQL (using Apollo Server)
+
+Before defining and creating a Resolver, we need to create a Type for the schema in GraphQL.
